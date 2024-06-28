@@ -2,7 +2,7 @@
 VTHSC-MIR: Vision Transformer Hashing with Supervised Contrastive learning based medical image retrieval 
 {https://doi.org/10.1016/j.patrec.2024.06.003)
 
-
+![VTHSC](VTHSC.png)
 
 ## How to Run
 
