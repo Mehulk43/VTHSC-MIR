@@ -29,7 +29,7 @@ Figure. 2: Top 6 query retrieval results of BreakHis dataset
 Figure 3: Top 6 query retrieval results of COVIDx CXR-3 dataset
 ### Paper Citation
 Please cite following paper if you make use of this code in your research:
-
+```tex
 @article{kumar2024vthsc,
   title={VTHSC-MIR: Vision Transformer Hashing with Supervised Contrastive learning based medical image retrieval},
   author={Kumar, Mehul and Singh, Rhythumwinder and Mukherjee, Prerana},
@@ -37,3 +37,4 @@ Please cite following paper if you make use of this code in your research:
   year={2024},
   publisher={Elsevier}
 }
+```
